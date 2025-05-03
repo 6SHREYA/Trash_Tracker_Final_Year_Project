@@ -1,0 +1,16 @@
+geocoder==1.38.1
+geopy==2.4.1
+matplotlib==3.8.4
+numpy==1.23.5
+opencv-python==4.6.0.66
+pandas==1.5.2
+Pillow==9.3.0
+tensorflow==2.9.0
+twilio==7.16.0
+yagmail==0.15.293
+folium==0.12.1
+streamlit==1.16.0
+plotly==5.7.0
+protobuf==3.20.0
+altair==4.2.0
+python-dotenv==1.0.0
